@@ -1,5 +1,7 @@
 # Photography-Business-Botpress-AI-Chatbot
-*Complete flow for a photography business. Ask AI for general information, follow steps to book a photography package.*
+*Complete WhatsApp flow for a photography business. Ask AI for general information, follow steps to book a photography package.*
+
+You can try it the Botpress WebChat preview: https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/16/20/20241016202619-4RSBNTAX.json
 
 ## Goals ##
 
